@@ -1,0 +1,7 @@
+export APP_ID=c5c76804-3f61-4f82-baa1-c9c63636540a
+export APP_SECRET=94b8fekdk7tlx2t3zbusii7gcd7j3js3
+export WEBHOOK_SECRET=o6q7cakco3biwot5xljwmssbapjc57zy
+export PORT=3000
+
+
+
