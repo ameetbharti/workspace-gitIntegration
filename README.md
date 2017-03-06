@@ -1,5 +1,5 @@
-# watsonwork-sentiment analyzer
-**Writes a message back if there is someone with very negative or very positive comments**
+# watsonwork-github integration
+**Post github operations in workspace**
 
 ### Demonstrates the following specific Watson Work Services capabilities
 
